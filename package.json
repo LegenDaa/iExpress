@@ -1,0 +1,26 @@
+{
+  "name": "iexpress",
+  "version": "1.0.0",
+  "description": "express探索",
+  "main": "app.js",
+  "scripts": {
+    "debug": "set DEBUG=* ",
+    "start": "npm run debug & node ./bin/www"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LegenDaa/iExpress.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "daixiulei@163.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LegenDaa/iExpress/issues"
+  },
+  "homepage": "https://github.com/LegenDaa/iExpress#readme",
+  "devDependencies": {
+    "swig": "^1.4.2"
+  }
+}
